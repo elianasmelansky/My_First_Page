@@ -1,0 +1,26 @@
+{
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #ccc;
+}
+.Home{
+
+}
+.Diet{
+
+}
+.Habitat{
+    
+}
+nav a:hover {
+  background-color: #005f5f;
+}
+ 
+nav a.active {
+  background-color: #eee;
+  color: #444;
+  cursor: default;
+}
